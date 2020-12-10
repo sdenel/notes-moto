@@ -63,6 +63,7 @@
 * https://www.youtube.com/watch?v=ypT0zPn3Ql8
 * https://www.bennetts.co.uk/bikesocial/news-and-views/features/bikes/yamaha-niken-all-questions-answered
 * Niken Turbo de SW-MOTECH :
+  * High Side : https://www.youtube.com/watch?v=tX88LTmxR2M&t=333s
 
 ## Points négatifs
 * "grosse problématique de l'arrosage très important des 2 pieds à la moindre pluie, même fine" [ref](https://www.mt09.net/t9993p300-votre-avis-sur-le-niken-le-trois-roues-yam). Il serait possible d'installer des bavettes comme sur les MP3 500. Quid de l'esthétisme ?
