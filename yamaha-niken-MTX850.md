@@ -60,7 +60,8 @@
 * TODO SW Motech ?
 
 ## Essais
-* https://www.youtube.com/watch?v=ypT0zPn3Ql8
+* Le Repaire des Motards : https://www.youtube.com/watch?v=ypT0zPn3Ql8
+* High side : https://www.youtube.com/watch?v=XufUJ231kkQ
 * https://www.bennetts.co.uk/bikesocial/news-and-views/features/bikes/yamaha-niken-all-questions-answered
 * Niken Turbo de SW-MOTECH :
   * High Side : https://www.youtube.com/watch?v=tX88LTmxR2M&t=333s
