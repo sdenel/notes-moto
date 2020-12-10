@@ -1,7 +1,7 @@
 # Yamaha Niken MTX850
 ## Spécificités du bras avant
-Les tubes avant servent au guidage, les tubes arrières à la suspension
-l’ABS est différencié gauche / droite (si une roue bloque, l’autre non)
+* Les tubes avant servent au guidage, les tubes arrières à la suspension
+* L’ABS est différencié gauche / droite (si une roue bloque, l’autre non)
 
 ## Comparé à une MT09...
 * Le cadre est repris de la MT09 (à quel point ?)
