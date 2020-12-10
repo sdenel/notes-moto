@@ -1,3 +1,4 @@
+# Yamaha Niken MTX850
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -18,7 +19,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Yamaha Niken MTX850
+
 ## Spécificités du bras avant
 * Les tubes avant servent au guidage, les tubes arrières à la suspension
 * L’ABS est différencié gauche / droite (si une roue bloque, l’autre non)

@@ -27,4 +27,3 @@ jobs:
         run: |
           REMOTE_REPO="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${REPOSITORY}.git"
           git push "$REMOTE_REPO"
-
