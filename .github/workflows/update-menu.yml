@@ -1,0 +1,30 @@
+name: Update menu
+
+on:
+  push:
+    # Publish `main` as Docker `latest` image.
+    branches:
+      - main
+      # TODO other branches?
+ 
+jobs:
+  # Push image to GitHub Packages.
+  # See also https://docs.docker.com/docker-hub/builds/
+  push:
+    runs-on: ghcr.io/sdenel/ubuntu-ultimate
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get doctoc
+        run: npm install -g doctoc
+      - name: Update menus
+        run: doctoc --github --notitle .
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update menu"
+      - name: Push changes
+        run: |
+          REMOTE_REPO="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${REPOSITORY}.git"
+          git push "$REMOTE_REPO"
+
