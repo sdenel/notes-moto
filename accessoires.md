@@ -82,3 +82,8 @@ Pour mieux se faire voir même le jour (mon besoin) ou gagner en visibilité en 
     * Akrapovik : choix haut de gamme
     * Arrow
     * TODO
+    
+## Outils sous la selle
+* Kit anti crevaison (mèches et bombonnes ou idéalement pompe électrique).
+   * Voir notice personelle : http://bit.ly/3nS4n
+   * Nécessite d'etre complété par une pince et un tournevis pour pouvoir retirer le clou / la vis
