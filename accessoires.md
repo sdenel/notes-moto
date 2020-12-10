@@ -1,3 +1,4 @@
+# Accessoires et améliorations génériques
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -9,8 +10,6 @@
   - [Outils sous la selle](#outils-sous-la-selle)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Accessoires et améliorations génériques
 
 ## Top case
 * Shad :

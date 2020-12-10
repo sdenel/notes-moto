@@ -2,7 +2,6 @@ name: Update menu
 
 on:
   push:
-    # Publish `main` as Docker `latest` image.
     branches:
       - main
       # TODO other branches?
@@ -10,11 +9,13 @@ on:
 jobs:
   # Push image to GitHub Packages.
   # See also https://docs.docker.com/docker-hub/builds/
-  push:
-    runs-on: ghcr.io/sdenel/ubuntu-ultimate
+  update-toc:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Get doctoc
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+      - name: Install doctoc
         run: npm install -g doctoc
       - name: Update menus
         run: doctoc --github --notitle .
@@ -23,7 +24,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -am "Update tables of content"
-      # - name: Push changes
-      #   run: |
-      #     REMOTE_REPO="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${REPOSITORY}.git"
-      #     git push "$REMOTE_REPO"
+      - name: Push changes
+        run: |
+          REMOTE_REPO='https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/sdenel/notes-moto.git'
+          git push "$REMOTE_REPO"
