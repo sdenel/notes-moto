@@ -7,6 +7,7 @@
   - [Phares additionnels](#phares-additionnels)
   - [Bande thermique](#bande-thermique)
   - [Pot d’échappement](#pot-d%C3%A9chappement)
+  - [Outils sous la selle](#outils-sous-la-selle)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
