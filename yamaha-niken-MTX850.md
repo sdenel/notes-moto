@@ -5,9 +5,9 @@
 
 ## Comparé à une MT09...
 * Le cadre est repris de la MT09 (à quel point ?)
-* Villebrequin alourdi, boite de vitesse renforcée, démultiplication finale raccourcie. [ref][https://youtu.be/ypT0zPn3Ql8?t=111]
+* Villebrequin alourdi, boite de vitesse renforcée, démultiplication finale raccourcie. (ref)[https://youtu.be/ypT0zPn3Ql8?t=111]
 * Le guidon serait celui de la 900 Tracer GT.
-* La barre de liaison sous le pot d'échappement sert à "fermer le cadre" pour augmenter sa rigidité. Sur la GT, la béquille centrale en fait office. [ref][https://www.mt09.net/t9993p300-votre-avis-sur-le-niken-le-trois-roues-yam]
+* La barre de liaison sous le pot d'échappement sert à "fermer le cadre" pour augmenter sa rigidité. Sur la GT, la béquille centrale en fait office. (ref)[https://www.mt09.net/t9993p300-votre-avis-sur-le-niken-le-trois-roues-yam]
 
 ## Pneumatiques
 * Les Bridgestone d’origine sont connus pour avoir une carcasse un peu dur pour un usage routier
@@ -45,5 +45,5 @@
 * Niken Turbo de SW-MOTECH :
 
 ## Points négatifs
-* "grosse problématique de l'arrosage très important des 2 pieds à la moindre pluie, même fine" [ref][https://www.mt09.net/t9993p300-votre-avis-sur-le-niken-le-trois-roues-yam]. Il serait possible d'installer des bavettes comme sur les MP3 500. Quid de l'esthétisme ?
-* Impossible de lacher les mains meme au régulateur [ref][https://youtu.be/ypT0zPn3Ql8?t=460]
+* "grosse problématique de l'arrosage très important des 2 pieds à la moindre pluie, même fine" (ref)[https://www.mt09.net/t9993p300-votre-avis-sur-le-niken-le-trois-roues-yam]. Il serait possible d'installer des bavettes comme sur les MP3 500. Quid de l'esthétisme ?
+* Impossible de lacher les mains meme au régulateur (ref)[https://youtu.be/ypT0zPn3Ql8?t=460]
