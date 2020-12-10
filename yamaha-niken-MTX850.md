@@ -30,7 +30,7 @@
 * La barre de liaison sous le pot d'échappement sert à "fermer le cadre" pour augmenter sa rigidité. Sur la GT, la béquille centrale en fait office. [ref](https://www.mt09.net/t9993p300-votre-avis-sur-le-niken-le-trois-roues-yam)
 
 ## Pneumatiques
-* Les Bridgestone d’origine sont connus pour avoir une carcasse un peu dur pour un usage routier
+* Les Bridgestone d’origine sont connus pour avoir une carcasse un peu dure pour un usage routier
 * Bon choix : Continental Road Attack 3
 * Autre choix, meilleur rapport qualité / prix : Conti tour (mais indice de vitesse inférieur)
 
