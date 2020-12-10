@@ -2,12 +2,11 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Accessoires et améliorations génériques](#accessoires-et-am%C3%A9liorations-g%C3%A9n%C3%A9riques)
-  - [Top case](#top-case)
-  - [Phares additionnels](#phares-additionnels)
-  - [Bande thermique](#bande-thermique)
-  - [Pot d’échappement](#pot-d%C3%A9chappement)
-  - [Outils sous la selle](#outils-sous-la-selle)
+- [Top case](#top-case)
+- [Phares additionnels](#phares-additionnels)
+- [Bande thermique](#bande-thermique)
+- [Pot d’échappement](#pot-d%C3%A9chappement)
+- [Outils sous la selle](#outils-sous-la-selle)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

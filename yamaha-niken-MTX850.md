@@ -2,20 +2,19 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Yamaha Niken MTX850](#yamaha-niken-mtx850)
-  - [Spécificités du bras avant](#sp%C3%A9cificit%C3%A9s-du-bras-avant)
-  - [Comparé à une MT09...](#compar%C3%A9-%C3%A0-une-mt09)
-  - [Pneumatiques](#pneumatiques)
-  - [Accessoires](#accessoires)
-    - [Valises latérales](#valises-lat%C3%A9rales)
-      - [Shad](#shad)
-      - [Givi](#givi)
-      - [Kappa](#kappa)
-    - [Top case](#top-case)
-    - [Pot d'échappement](#pot-d%C3%A9chappement)
-    - [Autres](#autres)
-  - [Essais](#essais)
-  - [Points négatifs](#points-n%C3%A9gatifs)
+- [Spécificités du bras avant](#sp%C3%A9cificit%C3%A9s-du-bras-avant)
+- [Comparé à une MT09...](#compar%C3%A9-%C3%A0-une-mt09)
+- [Pneumatiques](#pneumatiques)
+- [Accessoires](#accessoires)
+  - [Valises latérales](#valises-lat%C3%A9rales)
+    - [Shad](#shad)
+    - [Givi](#givi)
+    - [Kappa](#kappa)
+  - [Top case](#top-case)
+  - [Pot d'échappement](#pot-d%C3%A9chappement)
+  - [Autres](#autres)
+- [Essais](#essais)
+- [Points négatifs](#points-n%C3%A9gatifs)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
