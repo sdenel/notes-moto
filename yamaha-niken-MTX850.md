@@ -33,6 +33,8 @@
 * Monte d'origine :
   * Avanat : Bridgestone BATTLAX adventure A41 190/55R17 75V
   * Arrière : Bridgestone BATTLAX adventure A41 120/70R15 56V
+* Compatibles avant chez 123pneus : https://www.123pneus.fr/cgi-bin/rshop.pl?m_s=1&ranzahl=1&s_p=Overview&rsmFahrzeugart=MO&Ang_pro_Seite=20&dsco=125&s_p_=Overview&sort_by=Empfehlung&suchen=1&pdp_alt=2&Breite=120&Quer=70
+* Compatibles arrière chez 123pneus : https://www.123pneus.fr/cgi-bin/rshop.pl?m_s=1&ranzahl=1&s_p=Overview&rsmFahrzeugart=MO&Ang_pro_Seite=20&dsco=125&s_p_=Overview&sort_by=Empfehlung&suchen=1&pdp_alt=2&Breite=190&Quer=55
 * Les Bridgestone d’origine sont connus pour avoir une carcasse un peu dure pour un usage routier
 * Bon choix : Continental Road Attack 3
 * Autre choix, meilleur rapport qualité / prix : Conti tour (mais indice de vitesse inférieur)
