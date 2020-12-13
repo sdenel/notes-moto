@@ -41,8 +41,8 @@
   * Meilleur rapport qualité / prix : ContiTour (mais indice de vitesse inférieur)
   * Michelin Road 5
 * Démontage :
-  * Arrière : 1 douille 320mm
-  * Avamt : 1 douille 320mm + 1 douille 300mm (Mais a t'elle besoin d'etre dévissée ?!)
+  * Arrière : 1 douille 32mm
+  * Avamt : 1 douille 32mm + 1 douille 30mm (Mais a t'elle besoin d'etre dévissée ?!)
 
 ## Accessoires
 ### Valises latérales
