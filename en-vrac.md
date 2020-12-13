@@ -58,3 +58,5 @@
 * Stages et associations
     * TODO sous forme de Google maps
     * Stage offroad : https://www.petokask.com/
+* Pneumatique :
+   * Lire un pneu : https://www.tiregom.fr/guide/conseils/comment-lire-pneu
