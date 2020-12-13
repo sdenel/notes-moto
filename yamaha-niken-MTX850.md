@@ -30,6 +30,9 @@
 * La barre de liaison sous le pot d'échappement sert à "fermer le cadre" pour augmenter sa rigidité. Sur la GT, la béquille centrale en fait office. [ref](https://www.mt09.net/t9993p300-votre-avis-sur-le-niken-le-trois-roues-yam)
 
 ## Pneumatiques
+* Monte d'origine :
+  * Avanat : Bridgestone BATTLAX adventure A41 190/55R17 75V
+  * Arrière : Bridgestone BATTLAX adventure A41 120/70R15 56V
 * Les Bridgestone d’origine sont connus pour avoir une carcasse un peu dure pour un usage routier
 * Bon choix : Continental Road Attack 3
 * Autre choix, meilleur rapport qualité / prix : Conti tour (mais indice de vitesse inférieur)
