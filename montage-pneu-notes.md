@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Matériel nécessaire](#mat%C3%A9riel-n%C3%A9cessaire)
+- [Considérations indispensables](#consid%C3%A9rations-indispensables)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 Suite au changement (fastidieux) avec un ami d'un pneu arrière tubeless en 190/55R17, quelques points pour compléter les vidéos YouTube et vous éviter de passer, comme nous, une journée de galère à deux.
 
 # Matériel nécessaire
