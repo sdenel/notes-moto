@@ -42,5 +42,8 @@ Suite au changement (fastidieux) avec un ami d'un pneu arrière tubeless en 190/
   * Avancer les démontes pneus petit à petit, sans grande prise d'angle. C'est plus facile, et semble limiter le risque d'abimer le pneumatique.
 * Remontage de la roue
   * Ré-écarter les plaquettes de frein (avec un gros tournevis plat / une clé plate peu épaisse...) avant de commencer à placer la roue.
+* Une fois le pneu neuf monter
+  * Le pneu doit etre rodé, y compris sur les flancs, avant d'avoir l'adhérence maximale. Lorsqu'il est neuf, l'état de surface du pneu est lisse (du fait du moule). Le rodage signifie que le pneu devient abrasif. Le rodage se vérifie facilement visuellement.
 * Points non résolus
   * Le claquage est-il systématique ? Nous n'en avons pas entendu, malgré un gonflage en pic à 7 bars, et suffisament de lubrifiant. Apparemment, après de nombreuses recherches, "somes tyres snap/pop, some don't". Peut-etre est-ce du à la non utilisation d'un compresseur et d'un démonte obus ?
+    * Brouillon : Après discussion avec un spécialiste, le pneu est en place : un pneu ça doit claquer. Mais parfois on entend pas du fait du bruit du compresseur. Et un pneu pas claqué, ça se sent quand on passe la main sur le flanc. Et si c'est pas claqué et qu'on roule, on général (...) on ne dejante pas, le pneu se met en place. Et quand on roule on sent qu'un truc qui va pas.
